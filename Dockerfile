@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-web-apache-pgsql:ubuntu-7.0.1
+FROM zabbix/zabbix-web-apache-pgsql:ubuntu-7.0.2
 
 USER root
 
